@@ -19,6 +19,7 @@
 
 #include <ctype.h>
 #include <errno.h>
+#include <stdlib.h>
 
 #include "flatbuffers/base.h"
 #include "flatbuffers/stl_emulation.h"
